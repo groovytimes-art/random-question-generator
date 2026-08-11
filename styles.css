@@ -1,4 +1,8 @@
-/* Basic page */
+/* =========================================================
+   RANDOM QUESTION GENERATOR
+   Old-school web page style
+   ========================================================= */
+
 body {
   margin: 0;
   padding: 20px;
@@ -8,76 +12,72 @@ body {
   text-align: center;
 }
 
-/* Main page container */
 .container {
   width: 100%;
-  max-width: 720px;
+  max-width: 700px;
   margin: 0 auto;
 }
 
-/* Main heading */
 h1 {
   margin: 20px 0 30px;
-  font-size: 48px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 42px;
   font-weight: bold;
   color: #F6D365;
-  text-align: center;
 }
 
-/* Question area */
 #question-card {
+  margin: 0 auto 20px;
+}
+
+.category {
+  margin: 0 0 10px;
+  font-size: 16px;
+  color: #F6D365;
+}
+
+.question {
   margin: 0 auto;
+  max-width: 650px;
+  font-size: 20px;
+  line-height: 1.4;
+  color: #ffffff;
+}
+
+.controls {
+  margin: 20px 0;
   text-align: center;
 }
 
-/* Category */
-.category {
-  margin: 0 0 12px;
-  color: #F6D365;
-  font-size: 18px;
-}
-
-/* Question */
-.question {
-  margin: 0 auto 28px;
-  max-width: 700px;
-  color: #ffffff;
-  font-size: 24px;
-  line-height: 1.4;
-}
-
-/* Button area */
-.controls {
-  display: flex;
-  justify-content: center;
-  margin: 20px 0;
-}
-
-/* Question button */
 button {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
-  padding: 5px 12px;
+  padding: 4px 10px;
   cursor: pointer;
 }
 
-/* Duck */
+button:hover {
+  cursor: pointer;
+}
+
 #duck {
   display: block;
   width: 400px;
-  max-width: 100%;
   height: auto;
   margin: 25px auto 0;
 }
 
-/* Small screens */
 @media (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+
   h1 {
-    font-size: 36px;
+    font-size: 32px;
   }
 
   .question {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   #duck {
