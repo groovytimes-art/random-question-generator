@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Random Question Generator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="container">
+    <h1>Random Question Generator</h1>
+
+    <div id="question-card" class="card">
+      <p id="category" class="category">Category</p>
+      <p id="question" class="question">Loading questions…</p>
+    </div>
+
+    <div class="controls">
+      <button id="new-btn">New Question</button>
+      <button id="add-local-btn">Add Local Question</button>
+    </div>
+
+    <form id="add-form" class="hidden">
+      <label>
+        Question
+        <textarea id="new-question-text" rows="3" required></textarea>
+      </label>
+      <label>
+        Category
+        <input id="new-question-category" type="text" placeholder="Optional">
+      </label>
+      <div class="controls">
+        <button type="submit">Add</button>
+        <button type="button" id="cancel-add">Cancel</button>
+      </div>
+      <p class="note">Added questions are stored only in the page (not saved to the repo). To persist, edit questions.json in the repository.</p>
+    </form>
+
+    <p id="count" class="count"></p>
+
+    <footer class="footer">
+      <p>Keyboard: press <kbd>Space</kbd> or <kbd>N</kbd> for a new question.</p>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
