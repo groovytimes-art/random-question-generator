@@ -15,11 +15,13 @@ body{
   font-family:Arial, Helvetica, sans-serif;
   background:#336699;
   color:#000000;
+  text-align:center;
   padding:20px;
 }
 .container{
   width:100%;
   max-width:var(--max-width);
+  margin:0 auto;
   background:transparent;
 }
 h1{
@@ -110,5 +112,8 @@ kbd{
 
 #duck {
   width: 400px;
+  max-width:100%;
   height: auto;
+  display:block;
+  margin:20px auto;
 }
