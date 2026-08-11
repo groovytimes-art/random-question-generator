@@ -107,3 +107,8 @@ kbd{
 @media (prefers-reduced-motion: no-preference){
   .card:active{transform:scale(.997)}
 }
+
+#duck {
+  width: 400px;
+  height: auto;
+}
