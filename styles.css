@@ -25,9 +25,10 @@ body{
   background:transparent;
 }
 h1{
-  margin:0 0 12px 0;
-  font-weight:600;
-  font-size:1.25rem;
+  margin:0 0 24px;
+  font-size: 48px;
+  color: #F6D365;
+  text-align: center;
 }
 .card{
   background:var(--card);
