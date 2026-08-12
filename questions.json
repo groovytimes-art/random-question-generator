@@ -1,7 +1,152 @@
 [
-  {"question":"What is a small change you could make today to improve your routine?","category":"Personal"},
-  {"question":"If you could learn one new skill instantly, what would it be?","category":"Career"},
-  {"question":"Describe a memorable meal you had — what made it special?","category":"Lifestyle"},
-  {"question":"What’s one question you wish people asked you more often?","category":"Conversation"},
-  {"question":"If you could travel anywhere next month, where would you go and why?","category":"Travel"}
+  {
+    "question": "Would you rather discover that humanity is entirely alone in the universe or discover that we share it with thousands of advanced civilizations?"
+  },
+  {
+    "question": "Would you rather give up all modern digital technology or give up the ability to ever experience wild nature again?"
+  },
+  {
+    "question": "Would you rather have a perfect memory or be able to forget anything you wanted at will?"
+  },
+  {
+    "question": "Would you rather always feel understood or always feel appreciated?"
+  },
+  {
+    "question": "Would you rather time travel to the past or future?"
+  },
+  {
+    "question": "Would you rather have unlimited knowledge or unlimited creativity?"
+  },
+  {
+    "question": "Would you rather have the ability to hit pause or rewind on your life?"
+  },
+  {
+    "question": "Would you rather fight 100 duck-sized elephants or one elephant-sized duck?"
+  },
+  {
+    "question": "Would you rather have the ability to see minutes into the future or years into the future?"
+  },
+  {
+    "question": "Would you rather be royalty 100 years ago or an average person today?"
+  },
+  {
+    "question": "Would you rather cuddle a koala or pal around with a panda?"
+  },
+  {
+    "question": "Would you rather be forced to live the same day over again for a year, or take years off the end of your life?"
+  },
+  {
+    "question": "Would you rather get a paper cut between your fingers every time you turn a page or bite your tongue every time you eat food?"
+  },
+  {
+    "question": "Would you rather win $1,000, or your best friend win $100,000?"
+  },
+  {
+    "question": "Would you rather poop in the only toilet at a party knowing that you'll clog it, or poop in the bushes in the backyard?"
+  },
+  {
+    "question": "Would you rather be extremely wealthy or extremely wise?"
+  },
+  {
+    "question": "Would you rather never have to sleep or never have to eat?"
+  },
+  {
+    "question": "Would you rather be able to teleport to anywhere you want, or be able to read minds?"
+  },
+  {
+    "question": "Would you rather have all future happy moments be happier, or sad moments less sad?"
+  },
+  {
+    "question": "Would you rather wrestle a bear or an alligator?"
+  },
+  {
+    "question": "Would you rather be trapped in a small room with 10,000 tarantulas for 10 minutes, or eat 10 tarantulas in 100 minutes?"
+  },
+  {
+    "question": "Would you rather be an unknown superhero or a famous villain?"
+  },
+  {
+    "question": "Would you rather let a spider climb over you or let a snake slither across you?"
+  },
+  {
+    "question": "Would you rather sing well and dance poorly or sing poorly and dance well?"
+  },
+  {
+    "question": "Would you rather be able to take back anything you say or listen in on every conversation that’s about you?"
+  },
+  {
+    "question": "Would you rather have friendships that feel effortless or ones that feel intense but meaningful?"
+  },
+  {
+    "question": "Would you rather have every lie you’ve told this year revealed or every screenshot you’ve taken this year shared?"
+  },
+  {
+    "question": "Would you rather always feel like you’re about to sneeze or always have an itch just out of scratching reach?"
+  },
+  {
+    "question": "Would you rather date someone who hates dogs or someone who has three dogs with them at most times?"
+  },
+  {
+    "question": "Would you rather talk like Minnie Mouse when you’re angry or laugh just like Spongebob?"
+  },
+  {
+    "question": "Would you rather get the hiccups every other hour or have to end every sentence you speak with “I do declare”?"
+  },
+  {
+    "question": "Would you rather have teeth that glow in the dark or eyebrows that fall off once a month?"
+  },
+  {
+    "question": "Would you rather be able to communicate telepathically or know every single language on the planet?"
+  },
+  {
+    "question": "Would you rather be constantly sticky or constantly itchy?"
+  },
+  {
+    "question": "Would you rather have a resting confused face or a resting smug face?"
+  },
+  {
+    "question": "Would you rather have more time or more money?"
+  },
+  {
+    "question": "Would you rather travel back in time to meet your ancestors or travel forward in time to meet your descendants?"
+  },
+  {
+    "question": "Would you rather let bygones be bygones or get the final word?"
+  },
+  {
+    "question": "Would you rather be extremely talented at one thing only or pretty decent at a large number of things?"
+  },
+  {
+    "question": "Would you rather be able to see other people’s futures or be able to see your own?"
+  },
+  {
+    "question": "Would you rather be endlessly lucky or know you’ve earned everything you’ve achieved?"
+  },
+  {
+    "question": "Would you rather be practical to a fault or idealistic to a fault?"
+  },
+  {
+    "question": "Would you rather live a life that makes sense or one that surprises you?"
+  },
+  {
+    "question": "Would you rather fall in love with a famous musician or a famous chef?"
+  },
+  {
+    "question": "Would you rather talk to animals or be able to fly?"
+  },
+  {
+    "question": "Would you rather not know what you’re doing tomorrow for 10 years or know exactly what you’re doing every day for the next 10 years?"
+  },
+  {
+    "question": "Would you rather wake up in the morning as a bird or a dolphin?"
+  },
+  {
+    "question": "Would you rather live in a world where there is no crime or no privacy?"
+  },
+  {
+    "question": "Would you rather live in a future where people take everything too seriously or a future where people don't take anything seriously?"
+  },
+  {
+    "question": "Would you rather always have to wear orange Crocs or Big Red Boots?"
+  }
 ]
