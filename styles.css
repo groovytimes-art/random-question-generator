@@ -1,8 +1,3 @@
-/* =========================================================
-   RANDOM QUESTION GENERATOR
-   Old-school web page style
-   ========================================================= */
-
 body {
   margin: 0;
   padding: 20px;
@@ -16,6 +11,7 @@ body {
   width: 100%;
   max-width: 700px;
   margin: 0 auto;
+  text-align: center;
 }
 
 h1 {
@@ -24,39 +20,31 @@ h1 {
   font-size: 42px;
   font-weight: bold;
   color: #F6D365;
-}
-
-#question-card {
-  margin: 0 auto 20px;
-}
-
-.category {
-  margin: 0 0 10px;
-  font-size: 16px;
-  color: #F6D365;
-}
-
-.question {
-  margin: 0 auto;
-  max-width: 650px;
-  font-size: 20px;
-  line-height: 1.4;
-  color: #ffffff;
-}
-
-.controls {
-  margin: 20px 0;
   text-align: center;
 }
 
-button {
+.question {
+  width: 100%;
+  max-width: 650px;
+  margin: 0 auto 25px;
+  font-size: 20px;
+  line-height: 1.4;
+  color: #ffffff;
+  text-align: center;
+}
+
+.controls {
+  width: 100%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+#new-btn {
+  display: inline-block;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   padding: 4px 10px;
-  cursor: pointer;
-}
-
-button:hover {
+  margin: 0 auto;
   cursor: pointer;
 }
 
@@ -68,6 +56,7 @@ button:hover {
 }
 
 @media (max-width: 600px) {
+
   body {
     padding: 10px;
   }
@@ -84,4 +73,5 @@ button:hover {
     width: 100%;
     max-width: 400px;
   }
+
 }
