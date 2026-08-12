@@ -56,7 +56,6 @@ h1 {
 }
 
 @media (max-width: 600px) {
-
   body {
     padding: 10px;
   }
@@ -73,5 +72,4 @@ h1 {
     width: 100%;
     max-width: 400px;
   }
-
 }
